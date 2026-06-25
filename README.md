@@ -1,19 +1,14 @@
-# My Dots 🐧
+# Arch Linux - Dicas & Comandos Úteis
 
-Bem-vindo ao meu repositório de configurações (dotfiles). Aqui guardo as personalizações do meu ambiente Linux no Arch.
+Este repositório é um guia rápido com comandos, scripts e otimizações para usuários de Arch Linux.
 
-## 🛠 Sobre o Projeto
-Este repositório serve como backup e laboratório para minhas configurações de sistema. Estou sempre testando novas formas de otimizar meu workflow.
+## 🚀 Comandos Essenciais (Pacman)
+- **Atualizar sistema:** `sudo pacman -Syu`
+- **Instalar pacote:** `sudo pacman -S nome_do_pacote`
+- **Limpar cache:** `sudo pacman -Sc`
 
-## 🚀 Tecnologias e Ferramentas
-- **SO:** Arch Linux
-- **Shell:** Fish
-- **Terminal:** Kitty
-- **Editor:** Vim
+## 🛠 Scripts
+Consulte a pasta `/scripts` para encontrar automações prontas para uso.
 
-## 📝 O que tem aqui?
-- `bashrc`: Configurações do meu prompt e atalhos.
-- (Em breve: Scripts de automação)
-
----
-*Feito com muito café e código aberto.*
+## 🤝 Contribuições
+Sinta-se à vontade para abrir uma *Issue* ou *Pull Request* caso tenha um comando mais eficiente.
